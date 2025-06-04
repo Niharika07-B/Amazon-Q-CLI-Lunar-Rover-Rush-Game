@@ -51,38 +51,36 @@ You can add your own sound effects and images in the respective directories:
 
 ## 🕹️ How to Play
 
-Start the Game
+   1.Start the Game
 
-   Launch the game using python main.py and begin your lunar journey.
-
-
-Control the Rover
-
-   Use the arrow keys (← ↑ ↓ →) to move your lunar rover across the surface of the moon.
+    Launch the game using python main.py and begin your lunar journey.
 
 
-Collect Fuel Tanks 🛢️
+   2.Control the Rover
 
-  Fuel drains over time. Pick up fuel tanks to keep your rover running and avoid game over.
-
-
-Score Points ⭐
-
-  Earn points as you collect items or travel longer distances. Try to beat your high score!
+    Use the arrow keys (← ↑ ↓ →) to move your lunar rover across the surface of the moon.
 
 
-Avoid Running Out of Fuel
+   3.Collect Fuel Tanks 🛢️
 
-   If your fuel hits zero, the game ends. You’ll have to restart to try again.
-
-
-Replay & Improve
-
-   Keep playing to get better and set new high scores!
+    Fuel drains over time. Pick up fuel tanks to keep your rover running and avoid game over.
 
 
+   4.Score Points ⭐
 
-See the README files in those directories for more information on the expected file names.
+      Earn points as you collect items or travel longer distances. Try to beat your high score!
+
+
+   5.Avoid Running Out of Fuel
+
+      If your fuel hits zero, the game ends. You’ll have to restart to try again.
+
+
+   6.Replay & Improve
+
+     Keep playing to get better and set new high scores!
+
+
 
 ## Game Modes
 

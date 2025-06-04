@@ -25,6 +25,7 @@ A 2D side-scrolling game where you control a lunar rover racing across the moon'
 ### Other Controls
 - R: Restart game when game over
 - ESC: Return to main menu
+  
 
 ## How to Run
 
@@ -43,6 +44,28 @@ A 2D side-scrolling game where you control a lunar rover racing across the moon'
 You can add your own sound effects and images in the respective directories:
 - Sound effects: `assets/sounds/`
 - Images: `assets/images/`
+
+
+
+🕹️ How to Play
+Start the Game
+Launch the game using python main.py and begin your lunar journey.
+
+Control the Rover
+Use the arrow keys (← ↑ ↓ →) to move your lunar rover across the surface of the moon.
+
+Collect Fuel Tanks 🛢️
+Fuel drains over time. Pick up fuel tanks to keep your rover running and avoid game over.
+
+Score Points ⭐
+Earn points as you collect items or travel longer distances. Try to beat your high score!
+
+Avoid Running Out of Fuel
+If your fuel hits zero, the game ends. You’ll have to restart to try again.
+
+Replay & Improve
+Keep playing to get better and set new high scores!
+
 
 See the README files in those directories for more information on the expected file names.
 

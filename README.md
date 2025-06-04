@@ -1,6 +1,8 @@
-# Lunar Rover Race
+## 🚀 Lunar Rover Rush
 
-A 2D side-scrolling game where you control a lunar rover racing across the moon's surface.
+Welcome to Lunar Rover Rush — a 2D space-themed racing game where you control a lunar rover across the moon’s surface. Your goal is simple: collect points, grab fuel tanks, and survive as long as you can!
+
+If your fuel runs out... it's game over. 🌌
 
 ## Features
 

@@ -82,4 +82,12 @@ See the README files in those directories for more information on the expected f
 - **Two Players**: Race against a friend in split-screen mode.
 - **Time Trial**: Race against your best time with a ghost of your previous run.
 
+## 🙏 Credits
+
+🤖 Amazon Q CLI – Huge thanks to Amazon Q CLI for being a powerful AI assistant directly in the terminal. From writing logic to fixing bugs and optimizing game flow, it made development smooth and faster.
+
+
+🧠 ChatGPT (OpenAI) – Special thanks to ChatGPT for helping with game ideas, documentation, and Python tips. It served as a creative and technical partner throughout the project.
+
+
 Enjoy the lunar racing adventure!

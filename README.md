@@ -4,6 +4,8 @@ Welcome to Lunar Rover Rush — a 2D space-themed racing game where you control 
 
 If your fuel runs out... it's game over. 🌌
 
+---
+
 ## Features
 
 - Side-scrolling gameplay with a lunar rover that can move left/right and jump
@@ -13,6 +15,8 @@ If your fuel runs out... it's game over. 🌌
 - Power-ups: speed boosts, shields, and magnetic jumps
 - Multiple game modes: single player, two-player split-screen, and time trials with ghost racers
 - Customizable rover skins
+
+---
 
 ## Controls
 
@@ -27,6 +31,19 @@ If your fuel runs out... it's game over. 🌌
 ### Other Controls
 - R: Restart game when game over
 - ESC: Return to main menu
+
+---  
+
+## 🖼️ Screenshots
+
+_Here’s a quick look at Lunar Rover Rush in action:_
+
+![image](https://github.com/user-attachments/assets/ba5899b0-c861-422e-a0f9-42b374902b0c)
+
+
+![image](https://github.com/user-attachments/assets/940c0c8d-b2c1-4e81-94c8-39509f022546)
+
+---
   
 
 ## How to Run
@@ -41,12 +58,15 @@ If your fuel runs out... it's game over. 🌌
    python lunar_rover_game.py
    ```
 
+ ---  
+
 ## Adding Custom Assets
 
 You can add your own sound effects and images in the respective directories:
 - Sound effects: `assets/sounds/`
 - Images: `assets/images/`
 
+---
 
 
 ## 🕹️ How to Play
@@ -82,17 +102,6 @@ You can add your own sound effects and images in the respective directories:
 
  ---
 
-## 🖼️ Screenshots
-
-_Here’s a quick look at Lunar Rover Rush in action:_
-
-![image](https://github.com/user-attachments/assets/ba5899b0-c861-422e-a0f9-42b374902b0c)
-
-
-![image](https://github.com/user-attachments/assets/940c0c8d-b2c1-4e81-94c8-39509f022546)
-
-
----
 
 ## 📢 Project Showcase
 
@@ -124,6 +133,8 @@ These posts include behind-the-scenes thoughts, development challenges, and how 
 ![AMAZON q](https://github.com/user-attachments/assets/f17e0976-dd0e-44a6-8dd2-061e1f959a7c)
 
 
+---
+
 ## 🛠 What is Amazon Q CLI?
 
 The _Amazon Q CLI_ is a command-line version of Amazon Q, designed to assist developers right inside the terminal. It can:
@@ -144,6 +155,8 @@ The _Amazon Q CLI_ is a command-line version of Amazon Q, designed to assist dev
 
 🧠 ChatGPT (OpenAI) – Special thanks to ChatGPT for helping with game ideas, documentation, and Python tips. It served as a creative and technical partner throughout the project.
 
+
+---
 
 ## 🚀 Ready to Play?
 

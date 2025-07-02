@@ -80,7 +80,31 @@ You can add your own sound effects and images in the respective directories:
 
      Keep playing to get better and set new high scores!
 
+ ---
 
+## 🖼️ Screenshots
+
+_Here’s a quick look at Lunar Rover Rush in action:_
+
+![image](https://github.com/user-attachments/assets/ba5899b0-c861-422e-a0f9-42b374902b0c)
+
+
+![image](https://github.com/user-attachments/assets/940c0c8d-b2c1-4e81-94c8-39509f022546)
+
+
+---
+
+## 📢 Project Showcase
+
+**🔗 Check out my development journey:**
+
+📝 Medium Blog Post – Building Lunar Rover Rush 💁🏻‍♀️ https://surl.li/ucplvf
+
+💼 LinkedIn Post – Behind the Scenes 💁🏻‍♀️ https://www.linkedin.com/in/bandaru-niharika/
+
+These posts include behind-the-scenes thoughts, development challenges, and how tools like **Amazon Q CLI and ChatGPT** helped bring the game to life.
+
+---
 
 ## Game Modes
 
@@ -88,12 +112,42 @@ You can add your own sound effects and images in the respective directories:
 - **Two Players**: Race against a friend in split-screen mode.
 - **Time Trial**: Race against your best time with a ghost of your previous run.
 
+![image](https://github.com/user-attachments/assets/d77c4ce9-e662-4164-befe-09130511ffb6)
+
+
+---  
+
 ## 🙏 Credits
 
 🤖 Amazon Q CLI – Huge thanks to Amazon Q CLI for being a powerful AI assistant directly in the terminal. From writing logic to fixing bugs and optimizing game flow, it made development smooth and faster.
 
+![AMAZON q](https://github.com/user-attachments/assets/f17e0976-dd0e-44a6-8dd2-061e1f959a7c)
+
+
+## 🛠 What is Amazon Q CLI?
+
+The _Amazon Q CLI_ is a command-line version of Amazon Q, designed to assist developers right inside the terminal. It can:
+
+  + Generate code snippets
+
+  + Help fix bugs and errors
+
+  + Explain code logic
+
+  + Suggest performance improvements
+
+  + Streamline the development process with smart, context-aware recommendations
+
+
+![fffffffff](https://github.com/user-attachments/assets/56579b6a-705c-4f27-9e08-66dc2c39a3a4)
+
 
 🧠 ChatGPT (OpenAI) – Special thanks to ChatGPT for helping with game ideas, documentation, and Python tips. It served as a creative and technical partner throughout the project.
+
+
+## 🚀 Ready to Play?
+
+Clone the repo, start racing across the moon, and share your best scores with friends!
 
 
 Enjoy the lunar racing adventure!

@@ -8,7 +8,7 @@ If your fuel runs out... it's game over. 🌌
 
 ## Features
 
-- Side-scrolling gameplay with a lunar rover that can move left/right and jump
+- Side-scrolling gameplay with a lunar rover that can move left/right and jump 
 - Realistic low-gravity physics for floaty jumps
 - Procedurally generated lunar terrain with hills and craters
 - Various hazards: meteor showers, laser beams, and craters
